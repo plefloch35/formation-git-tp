@@ -22,3 +22,7 @@ Technologies web:
 Titre de l'application:
 Resaspi
 
+Application lourde:
+Technologie Swing
+
+
